@@ -56,7 +56,7 @@
                         // TODO: Display funds transfer statement menu
                         break;
                     case 5:
-                        // TODO: Display customers menu
+                        // TODO: Display accounts statement menu
                         break;
                     default:
                         break;
